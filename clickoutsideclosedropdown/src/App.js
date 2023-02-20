@@ -2,7 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import { useState , useEffect, useRef} from 'react';
 import './App.css';
-import abd from './abdullah.jpeg';
+import abd from './profile.jpeg';
 
 function App() {
   const [open,setOpen]=useState(false);
